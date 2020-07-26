@@ -1,2 +1,0 @@
-(this["webpackJsonpmy-website"]=this["webpackJsonpmy-website"]||[]).push([[6],{40:function(e,n,t){},63:function(e,n,t){"use strict";t.r(n);var a=t(0),c=t.n(a),l=(t(40),Object(a.lazy)((function(){return t.e(9).then(t.bind(null,37))})));n.default=function(){return c.a.createElement("div",{className:"section contact"},c.a.createElement(l,null),c.a.createElement("p",null,c.a.createElement("i",{class:"fa fa-envelope"}),"\xa0\xa0yanto.wendy98@gmail.com"),c.a.createElement("p",null,"Copyright \xa9 2020 Wendy Yanto"))}}}]);
-//# sourceMappingURL=footer.03b16972.chunk.js.map
